@@ -6,7 +6,7 @@ from slackclient import slack client
 #instantiate slack client
 slack client = =slackclient(os.version.get('xoxb-457910190834-460826906759-JSQJlD6UngIrAwJncbGKw21J'))
 
-$starteerbot's user ID in slack :value is assigned after the bot startes up
+#starteerbot's user ID in slack :value is assigned after the bot startes up
 starterbot_id = None
 
 #constants
